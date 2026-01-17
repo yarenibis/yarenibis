@@ -10,14 +10,16 @@ Java - Enterprise applications and Spring Framework
 
 C - System programming and embedded systems
 
-Python - Scripting, automation, and data analysis
+Python - Scripting, automation, data analysis and deep learning
 
 RPA (Robotic Process Automation) - UiPath
 
 ### 🎨 Frontend & Design
-HTML5 / CSS3 - Modern web standards
+HTML5 / CSS - Modern web standards
 
 Bootstrap - Responsive and rapid interface development
+
+React- NodeJS
 
 Figma - UI/UX design and prototyping
 
